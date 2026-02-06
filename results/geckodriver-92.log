@@ -1,0 +1,15 @@
+1770379278420	geckodriver	INFO	Listening on 127.0.0.1:50224
+1770379281572	mozrunner::runner	INFO	Running command: "C:\\Users\\sa3id\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sa3id\\AppData\\Local\\Temp\\rust_mozprofileBN3D9L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770379282983	Marionette	INFO	Marionette enabled
+1770379283334	Marionette	INFO	Listening on port 50232
+WebDriver BiDi listening on ws://127.0.0.1:50225
+Read port: 50232
+1770379283655	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770379298035	Marionette	INFO	Stopped listening on port 50232
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/fxrelay-allowlist sync interrupted by shutdown
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

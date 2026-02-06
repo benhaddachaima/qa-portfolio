@@ -1,0 +1,21 @@
+1770376957119	geckodriver	INFO	Listening on 127.0.0.1:62064
+1770376960223	mozrunner::runner	INFO	Running command: "C:\\Users\\sa3id\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sa3id\\AppData\\Local\\Temp\\rust_mozprofileOaLAZa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770376961136	Marionette	INFO	Marionette enabled
+1770376961408	Marionette	INFO	Listening on port 62072
+WebDriver BiDi listening on ws://127.0.0.1:62065
+Read port: 62072
+1770376961772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild[G FX1-]: Compo[GFXsi1-]: CorecempivetorBros IPCidgsitorBrieChildged rec clChieivoes IPC close se with reaswith reason=AbnormalShutdown
+on=AbnormalShutdown
+ld receives IPC close with reason=AbnormalShutdown
+[GFX1-]: 000002CE89F70000 accel canvas lost, can restore: true
+1770377030258	Marionette	INFO	Stopped listening on port 62072
+Dynamically enable window occlusion 1
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

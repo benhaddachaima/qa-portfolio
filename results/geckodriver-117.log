@@ -1,0 +1,16 @@
+1770388462693	geckodriver	INFO	Listening on 127.0.0.1:61495
+1770388465788	mozrunner::runner	INFO	Running command: "C:\\Users\\sa3id\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sa3id\\AppData\\Local\\Temp\\rust_mozprofileOlrfUW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770388466721	Marionette	INFO	Marionette enabled
+1770388467000	Marionette	INFO	Listening on port 64602
+WebDriver BiDi listening on ws://127.0.0.1:61496
+Read port: 64602
+1770388467138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/LoginManagerChild.sys.mjs, line 1715: TypeError: can't access dead object
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770388479516	Marionette	INFO	Stopped listening on port 64602
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 465: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]

@@ -1,0 +1,12 @@
+1770379610072	geckodriver	INFO	Listening on 127.0.0.1:65003
+1770379613228	mozrunner::runner	INFO	Running command: "C:\\Users\\sa3id\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sa3id\\AppData\\Local\\Temp\\rust_mozprofileFm1xVQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770379614578	Marionette	INFO	Marionette enabled
+1770379614838	Marionette	INFO	Listening on port 65011
+Read port: 65011
+WebDriver BiDi listening on ws://127.0.0.1:65004
+1770379614982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1612
+Exiting due to channel error.

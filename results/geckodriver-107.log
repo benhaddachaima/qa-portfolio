@@ -1,0 +1,16 @@
+1770379628373	geckodriver	INFO	Listening on 127.0.0.1:55273
+1770379631464	mozrunner::runner	INFO	Running command: "C:\\Users\\sa3id\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sa3id\\AppData\\Local\\Temp\\rust_mozprofile6BlXFW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770379633162	Marionette	INFO	Marionette enabled
+1770379633498	Marionette	INFO	Listening on port 55281
+WebDriver BiDi listening on ws://127.0.0.1:55274
+Read port: 55281
+1770379633856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Calling WaitFlushedEvent::Run: is delayed: 2311
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://livraison3.testacademy.fr."
+1770379650252	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

@@ -1,0 +1,22 @@
+1770376892405	geckodriver	INFO	Listening on 127.0.0.1:61813
+1770376895511	mozrunner::runner	INFO	Running command: "C:\\Users\\sa3id\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sa3id\\AppData\\Local\\Temp\\rust_mozprofile4eivLf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770376896530	Marionette	INFO	Marionette enabled
+1770376896808	Marionette	INFO	Listening on port 61821
+WebDriver BiDi listening on ws://127.0.0.1:61814
+Read port: 61821
+1770376897037	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/FormHandlerChild.sys.mjs, line 103: InvalidStateError: JSWindowActorChild.document getter: Cannot access property 'document' after actor 'FormHandler' has been destroyed
+1770376912567	Marionette	INFO	Stopped listening on port 61821
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/fxrelay-allowlist list() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:138:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:1007:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:886:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:570:17
+

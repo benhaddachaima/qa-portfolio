@@ -1,0 +1,12 @@
+1770379559686	geckodriver	INFO	Listening on 127.0.0.1:55495
+1770379562792	mozrunner::runner	INFO	Running command: "C:\\Users\\sa3id\\.cache\\selenium\\firefox\\win64\\147.0.3\\firefox.exe" "--marionette" "--remote-debuggin ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\sa3id\\AppData\\Local\\Temp\\rust_mozprofileZuKET9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1770379564316	Marionette	INFO	Marionette enabled
+1770379565833	Marionette	INFO	Listening on port 64921
+WebDriver BiDi listening on ws://127.0.0.1:55496
+Read port: 64921
+1770379566124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: VideoBridgeParent receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
